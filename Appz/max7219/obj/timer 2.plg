@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Github\SPI_MAX7219\Appz\max7219\timer 2.uvproj
+Project File Date:  04/16/2024
+
+<h2>Output:</h2>
+Build target 'timer 2'
+linking...
+Program Size: Code=7952 RO-data=268 RW-data=40 ZI-data=1632  
+FromELF: creating hex file...
+".\obj\timer 2.axf" - 0 Errors, 0 Warning(s).
+Load "D:\\Github\\SPI_MAX7219\\Appz\\max7219\\obj\\timer 2.axf" 
+Erase Failed!
